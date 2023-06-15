@@ -1,0 +1,48 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "age": 47,
+      "id": 0
+    },
+    {
+      "name": "Adam",
+      "age": 4,
+      "id": 2
+    },
+    {
+      "name": "Tim",
+      "age": 7,
+      "id": 3
+    },
+    {
+      "name": "Chaz",
+      "age": 57,
+      "id": 5
+    }
+    ,
+    {
+      "name": "Pratt",
+      "age": 65,
+      "id": 6
+    }
+    ,
+    {
+      "name": "Donn",
+      "age": 32,
+      "id": 7
+    }
+    ,
+    {
+      "name": "Nelly",
+      "age": 27,
+      "id": 8
+    }
+    ,
+    {
+      "name": "Paul",
+      "age": 19,
+      "id": 9
+    }
+  ]
+}
